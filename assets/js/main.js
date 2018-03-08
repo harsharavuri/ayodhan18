@@ -1,11 +1,14 @@
 "use strict";
 
 
+// Setting up Video
+
+
 jQuery(document).ready(function ($) {
 
     $(window).load(function () {
-        $(".loaded").fadeOut();
-        $(".preloader").delay(1000).fadeOut("slow");
+        $(".loaded").delay(1200).fadeOut("slow");
+        $(".preloader").delay(1300).fadeOut("slow");
     });
     /*---------------------------------------------*
      * Mobile menu
@@ -55,6 +58,22 @@ jQuery(document).ready(function ($) {
         time: 2000
     });
 
+    var vidWidth = $(window).width(), vidHeight = $(window).height();
+
+$("#video-wrap").css({
+    
+    'height': vidHeight
+});
+
+$('#video').videoBG({
+    mp4:'assets/images/bg.mp4',
+    ogv:'assets/images/bg.ogv',
+    webm:'assets/images/bg.webm',
+    poster:'assets/images/poster.jpg',
+    scale:true,
+    zIndex:0,
+    height: vidHeight
+});
 
 
 
@@ -66,7 +85,8 @@ jQuery(document).ready(function ($) {
 
     $('.main_home_slider').owlCarousel({
         responsiveClass: true,
-        autoplay: false,
+        autoplay:true,
+    autoplayTimeout:3000,
         items: 1,
         loop: true,
         dots: true,
@@ -151,7 +171,7 @@ jQuery(document).ready(function ($) {
     });
 
 
-    $('.dropdown-menu').click(function (e) {
+    $('.dropds-menu').click(function (e) {
         e.stopPropagation();
     });
 
