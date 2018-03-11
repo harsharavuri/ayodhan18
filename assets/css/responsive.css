@@ -132,6 +132,10 @@ Author URI: http://www.bootstrapthemes.co
     #festTitle{
         font-size:3.5rem;
     }
+    .loaded{
+        position:absolute;
+        left:0%;
+    }
 
 
 }

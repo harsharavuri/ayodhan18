@@ -7,8 +7,8 @@
 jQuery(document).ready(function ($) {
 
     $(window).load(function () {
-        $(".loaded").delay(2500).fadeOut("slow");
-        $(".preloader").delay(2600).fadeOut("slow");
+        $(".loaded").delay(1000).fadeOut("slow");
+        $(".preloader").delay(1100).fadeOut("slow");
     });
     /*---------------------------------------------*
      * Mobile menu
@@ -75,7 +75,7 @@ $('#video').videoBG({
     zIndex:0,
     height: vidHeight,
 });
-//$('#video video').prop('muted', true);
+$('#video video').prop('muted', true);
 
     /* ---------------------------------------------------------------------
      Carousel

@@ -46,7 +46,7 @@ body {
     position: absolute;
     left: 40%;
     top: 35%;
-    background-image: url(../images/loading.gif);
+    background-image: url(../images/logo.png);
     background-repeat: no-repeat;
     background-position: center;
     -moz-background-size: cover;

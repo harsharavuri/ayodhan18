@@ -112,8 +112,8 @@
                                     <div class="separator"></div>
                                     <p>Ayodhan aims to be one of a kind sports carnival hosted by NIT Warangal. Unleashing for the first time, this four day sports extravaganza brings all the sports enthusiasts onto a single platform to compete against each other and showcase their skill. With the desire to instill sports culture across the country, Ayodhan is a sports battle with nail baiting contests between teams from all over the country, including NIT Warangal college teams. An assortment of skill, patience, practice, passion and temperament amid 2000 audience and top notch judges, Ayodhan is dedicated to provide opportunities to all the sports prodigies and enthrall the visitors with unforgettable experiences. Comprising of ten intriguing events along with enthralling informal events and social initiatives, Ayodhan will surely be too good an exhilarating experience to neglect.
 </p>
-
-                                </div>
+                                    <a href="https://drive.google.com/file/d/1jGIwVto6lxlYyikR5GSsR-gDLLxuy7TY/view?usp=sharing"><span style="background-color:black;padding:10px;font-size:50%;color:white;">Brochure</span></a>
+                                
 
                                 <!--<div class="main_about_content">
                                     <div class="col-sm-4 col-xs-12">
