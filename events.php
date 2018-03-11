@@ -26,10 +26,10 @@
                                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
                                             <ul class="nav navbar-nav navbar-right">
-                                                <li><a href="/sportsfest/mogo">Home</a></li>
+                                                <li><a href="/ayodhan18">Home</a></li>
                                                 <li><a href="#about"> About us</a></li>
-                                                <li><a href="sponsors.php">Sponsors</a></li>
-                                                <li><a href="events.php">Events</a></li>
+                                                <li><a href="/ayodhan18/sponsors.php">Sponsors</a></li>
+                                                <li><a href="/ayodhan18/events.php">Events</a></li>
                                                 <li><a href="#contact">Contact</a></li>
 
                                             </ul>
