@@ -27,7 +27,7 @@
 
                                             <ul class="nav navbar-nav navbar-right">
                                                 <li><a href="/ayodhan18">Home</a></li>
-                                                <li><a href="#about"> About us</a></li>
+                                                <li><a href="/ayodhan18#about"> About us</a></li>
                                                 <li><a href="/ayodhan18/sponsors.php">Sponsors</a></li>
                                                 <li><a href="/ayodhan18/events.php">Events</a></li>
                                                 <li><a href="#contact">Contact</a></li>

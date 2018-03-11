@@ -27,7 +27,7 @@
 
                                             <ul class="nav navbar-nav navbar-right">
                                                 <li><a href="/ayodhan18">Home</a></li>
-                                                <li><a href="#about"> About us</a></li>
+                                                <li><a href="/ayodhan18#about"> About us</a></li>
                                                 <li><a href="/ayodhan18/sponsors.php">Sponsors</a></li>
                                                 <li><a href="/ayodhan18/events.php">Events</a></li>
                                                 <li><a href="#contact">Contact</a></li>
@@ -73,7 +73,7 @@
 
             </div>-->
 
-            <div class="row text-center" style="margin-top:5%;">
+            <div class="row text-center allEvents" style="margin-top:5%;">
                 <h2 style="font-weight:1000;">All Events</h2>
             </div>
 

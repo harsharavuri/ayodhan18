@@ -136,7 +136,9 @@ Author URI: http://www.bootstrapthemes.co
         position:absolute;
         left:15%;
     }
-
+    .allEvents{
+        margin-top: 10% !important;
+    }
 
 }
 
