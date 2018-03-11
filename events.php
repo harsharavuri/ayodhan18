@@ -80,64 +80,64 @@
             <hr />
 
             <div class="container" id="events">
-            <div style="background-image:url('assets/images/aboutus.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#exampleModal">
+            <div style="background-image:url('assets/images/cricket.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#exampleModal">
                     <div class="row text-center gameName">
                           Cricket
                     </div>
             </div>        
             
 
-            <div style="background-image:url('assets/images/aboutus.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#basketballModal">
+            <div style="background-image:url('assets/images/basketball.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#basketballModal">
                     <div class="row text-center gameName">
                           BasketBall
                     </div>
             </div>
 
-            <div style="background-image:url('assets/images/aboutus.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#volleyballModal">
+            <div style="background-image:url('assets/images/volleyball.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#volleyballModal">
                     <div class="row text-center gameName">
                           VolleyBall
                     </div>
             </div>
 
-            <div style="background-image:url('assets/images/aboutus.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#chessModal">
+            <div style="background-image:url('assets/images/chess.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#chessModal">
                     <div class="row text-center gameName">
                           Chess
                     </div>
             </div>
 
-            <div style="background-image:url('assets/images/aboutus.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#footballModal">
+            <div style="background-image:url('assets/images/football.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#footballModal">
                     <div class="row text-center gameName">
                           FootBall
                     </div>
             </div>    
 
-            <div style="background-image:url('assets/images/aboutus.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#athleticsModal">
+            <div style="background-image:url('assets/images/athletics.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#athleticsModal">
                     <div class="row text-center gameName">
                           Athletics
                     </div>
             </div>
 
-            <div style="background-image:url('assets/images/aboutus.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#kabaddiModal">
+            <div style="background-image:url('assets/images/kabaddi.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#kabaddiModal">
                     <div class="row text-center gameName">
                           Kabaddi
                     </div>
             </div>
 
 
-            <div style="background-image:url('assets/images/aboutus.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#lawntennisModal">
+            <div style="background-image:url('assets/images/tennis.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#lawntennisModal">
                     <div class="row text-center gameName">
                           Lawn Tennis
                     </div>
             </div>
 
-            <div style="background-image:url('assets/images/aboutus.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#badmintonModal">
+            <div style="background-image:url('assets/images/badminton.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#badmintonModal">
                     <div class="row text-center gameName">
                           Badminton
                     </div>
             </div>
 
 
-            <div style="background-image:url('assets/images/aboutus.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#tabletennisModal">
+            <div style="background-image:url('assets/images/tt.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#tabletennisModal">
                     <div class="row text-center gameName">
                           Table Tennis
                     </div>
@@ -198,7 +198,7 @@ If there's a game that's the talk of the institute on a daily basis, it's Basket
         </button>
       </div>
       <div class="modal-body">
-        ...
+        Volleyball is one game that defines the true meaning of team work. The institute is engaged in providing world class training to the players and they have showcased it time by time in various competitions across the nation. Currently there are two flood lit courts in the institute.
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-success" data-dismiss="modal">Close</button>
@@ -258,7 +258,7 @@ If there's a game that's the talk of the institute on a daily basis, it's Basket
         </button>
       </div>
       <div class="modal-body">
-        ...
+        If there's a game that eludes the prodigies on the planet, it's chess. What more intriguing than a chess board with it's 32 pieces to some of the brilliant minds in the nation? The players from the institute have always dominated the Inter NIT competitions and are eager to showcase their strategies on bigger states. Check into Ayodhan to check mate the kings here
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-success" data-dismiss="modal">Close</button>
@@ -278,7 +278,8 @@ If there's a game that's the talk of the institute on a daily basis, it's Basket
         </button>
       </div>
       <div class="modal-body">
-        
+        For athletes it's always a battle against time. The players here have involved in many such races against time and continuously brought the best of their efforts. The institute has many flood lit professional tracks and coaching staff solely focusing on athletics. The relentless work ethics and support from the institute has always been awarded with some medal winning performances in the Inter NIT competitions.
+
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-success" data-dismiss="modal">Close</button>
@@ -298,7 +299,7 @@ If there's a game that's the talk of the institute on a daily basis, it's Basket
         </button>
       </div>
       <div class="modal-body">
-        ...
+        Kabaddi might be the only game that actually justifies the referring of games as battles. Going alone into the opponent's court, evading the defenders, escaping the fierce jolts, balancing from being toppled and all the while trying to manage an infinitesimal tap on the opponent, ah, this game surely keeps everyone interesting all the time. As is the game, so should be the players. Come to NIT Warangal and make everyone stand on their toes.
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-success" data-dismiss="modal">Close</button>
@@ -339,7 +340,7 @@ If there's a game that's the talk of the institute on a daily basis, it's Basket
         </button>
       </div>
       <div class="modal-body">
-        ...
+        Table tennis is a sport that can be mastered only through precise timing, agility and delicacy while handling the ball. Never allowing a breather while playing, table tennis is one of the most played games in the institute owing to the fact that it's an indoor game. The institute has many tennis tables located both at the indoor stadium and the student hostels.
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-success" data-dismiss="modal">Close</button>
@@ -358,7 +359,7 @@ If there's a game that's the talk of the institute on a daily basis, it's Basket
         </button>
       </div>
       <div class="modal-body">
-        ...
+        Badminton has always received it's due attention in the institute. Players can always be seeing battling with rackets, trying to touch the shuttlecock in the opponent's court with their power hits. The three courts in the indoor stadium have witnessed numerous clashes and the coaches have been producing many professionals.
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-success" data-dismiss="modal">Close</button>
