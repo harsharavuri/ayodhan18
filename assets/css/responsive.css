@@ -129,6 +129,10 @@ Author URI: http://www.bootstrapthemes.co
     .portfolio .grid_item_overlay p{
         display: none;
     }
+    #festTitle{
+        font-size:3.5rem;
+    }
+
 
 }
 

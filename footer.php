@@ -7,22 +7,36 @@
                             <div class="col-sm-12 col-xs-12">
                                 
                                     <h3><strong>Contact Us</strong></h3>
-                                    <p>Lorem ipsum</p>
-
-
+                                   
+                                    <div class="col-md-12 col-sm-12 col-lg-12" id="contactDiv">
+                                        <div class="col-md-4 col-lg-4 col-sm-10">
+                                            <h4>Sairam Naik</h4>
+                                            <p style="font-weight:500">Ph : 9966557433</p>
+                                            <p style="font-weight:500">Email : gsnaik@gmail.com</p>
+                                        </div>
+                                        <div class="col-md-4 col-lg-4 col-sm-10">
+                                            <h4>Harsha Kanuri</h4>
+                                            <p style="font-weight:500">Ph : 8978411457</p>
+                                            <p style="font-weight:500">Email : kanuri54@gmail.com</p>
+                                        </div>
+                                        <div class="col-md-4 col-lg-4 col-sm-10">
+                                            <h4>Adil Hameed</h4>
+                                            <p style="font-weight:500">Ph : 8008954369</p>
+                                            <p style="font-weight:500">Email : hameed.adil27@gmail.com</p>
+                                        </div>        
+                                    </div>
                                     <div class="footer_subcribs_area">
-                                        <p class="monseratregular"><strong>15k</strong> followers</p>
                                         <hr />
                                         <div class="flowus">
                                             <a href="" class="robotolight"> Follow Us : </a>
-                                            <a href=""><i class="fa fa-facebook"></i></a>
-                                            <a href=""><i class="fa fa-twitter"></i></a>
+                                            <a href="www.facebook.com/ayodhan18"><i class="fa fa-facebook"></i></a>
+                                            <!--<a href=""><i class="fa fa-twitter"></i></a>
                                             <a href=""><i class="fa fa-google-plus"></i></a>
                                             <a href=""><i class="fa fa-instagram"></i></a>
                                             <a href=""><i class="fa fa-pinterest-p"></i></a>
                                             <a href=""><i class="fa fa-youtube"></i></a>
                                             <a href=""><i class="fa fa-rss"></i></a>
-                                            <a href=""><i class="fa fa-dribbble"></i></a>
+                                            <a href=""><i class="fa fa-dribbble"></i></a>-->
                                         </div>
 
                                     </div>

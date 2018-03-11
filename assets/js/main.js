@@ -7,8 +7,8 @@
 jQuery(document).ready(function ($) {
 
     $(window).load(function () {
-        $(".loaded").delay(1200).fadeOut("slow");
-        $(".preloader").delay(1300).fadeOut("slow");
+        $(".loaded").delay(2000).fadeOut("slow");
+        $(".preloader").delay(2100).fadeOut("slow");
     });
     /*---------------------------------------------*
      * Mobile menu
@@ -39,6 +39,7 @@ jQuery(document).ready(function ($) {
 
 
 
+
     /*---------------------------------------------*
      * WOW
      ---------------------------------------------*/
@@ -66,18 +67,15 @@ $("#video-wrap").css({
 });
 
 $('#video').videoBG({
-    mp4:'assets/images/bg.mp4',
-    ogv:'assets/images/bg.ogv',
-    webm:'assets/images/bg.webm',
+    //mp4:'assets/images/bg.mp4',
+    //ogv:'assets/images/bg.ogv',
+    webm:'assets/images/bg_hd.webm',
     poster:'assets/images/poster.jpg',
     scale:true,
     zIndex:0,
-    height: vidHeight
+    height: vidHeight,
 });
-
-
-
-
+//$('#video video').prop('muted', true);
 
     /* ---------------------------------------------------------------------
      Carousel

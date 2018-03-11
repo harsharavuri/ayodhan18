@@ -50,11 +50,12 @@
             <br /><br /><br />
             <div class="container" id="sponsors">
             
-            	<div class="row">
-            		<h4>Title Sponsor</h4>
+            	<div class="row text-center">
+            		<h4>Coming Soon</h4>
+            		<!--<h4>Title Sponsor</h4>
             		<div class="row">
             		<img src="assets/images/clientbg.jpg" align="middle" class="img-thumbnail">
-            		</div>
+            		</div>-->
             	</div>
             
 

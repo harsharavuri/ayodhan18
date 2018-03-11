@@ -32,8 +32,7 @@
                                                 <li><a href="#about"> About us</a></li>
                                                 <li><a href="sponsors.php">Sponsors</a></li>
                                                 <li><a href="events.php">Events</a></li>
-                                                <li><a href="#contact">Contact</a></li>
-
+                                                <li><a href="#contact">Contact</a></li>   
                                             </ul>
 
 
@@ -55,31 +54,46 @@
 
             <section id="home" class="home">
                 <div class="overlay all_overlay">
+                    <div class="row">
+                        <div class="col-sm-12 col-xs-12 text-center">
+                        <div id="mainTitle">
+                            <p id="festTitle">Ayodhan '18</p>     
+                            <p id="registerTitle"><span class="registerTitleDiv"><a href="https://goo.gl/forms/RB5KaKdXcbv6RI5r2" target="_blank" style="z-index:-200">Register Now</a></span></p>
+                        </div>
+                        </div>
+                    </div>
                         <!--<div style="position: fixed; top: 0; left:0; width: 100%; height: 100%; z-index: -1;">
                             <video id="video" src="assets/images/bg.mp4" no-controls autoplay style="width:100%; height:100%">
                         </video>
                     </div>-->
-                        <div class="row">
+                        <!--<div class="row">
                             <div class="col-sm-12 ">
                                 <div class="main_home_slider text-center">
                                     <div class="item first">
                                         <div class="main_home wow fadeInUp" data-wow-duration="300ms">
-                                            <h2>Ayodhan</h2>
-                                            <h3>Register Here</h3>
-                                
-
+                                            <h4>Ayodhyan</h4>
                                         </div>
                                     </div>
                                     <div class="item second">
                                         <div class="main_home wow fadeInUp" data-wow-duration="300ms">
-                                            <h4>Register</h4>
+                                            <a href="#"><h4>Register Now</h4></a>
                                             <h1></h1>
                                         </div>
                                     </div>
                                     
                                 </div>
                             </div>
-                        </div>
+                        </div>-->
+                        <!--<div class="row">
+                            <div class="col-sm-12 ">
+                                <div class="text-center">
+                                        <div class="wow fadeInUp" data-wow-duration="300ms">
+                                            <h3>Register Now</h3>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        </div>-->
                 </div>
             </section>
 
@@ -94,13 +108,14 @@
                         <div class="main_about_area sections text-center">
                             <div class="col-sm-10 col-sm-offset-1">
                                 <div class="head_title text-center">
-                                    <h2>About Ayodhyan</h2>
+                                    <h2>About Ayodhan</h2>
                                     <div class="separator"></div>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                                    <p>Ayodhan aims to be one of a kind sports carnival hosted by NIT Warangal. Unleashing for the first time, this four day sports extravaganza brings all the sports enthusiasts onto a single platform to compete against each other and showcase their skill. With the desire to instill sports culture across the country, Ayodhan is a sports battle with nail baiting contests between teams from all over the country, including NIT Warangal college teams. An assortment of skill, patience, practice, passion and temperament amid 2000 audience and top notch judges, Ayodhan is dedicated to provide opportunities to all the sports prodigies and enthrall the visitors with unforgettable experiences. Comprising of ten intriguing events along with enthralling informal events and social initiatives, Ayodhan will surely be too good an exhilarating experience to neglect.
+</p>
 
                                 </div>
 
-                                <div class="main_about_content">
+                                <!--<div class="main_about_content">
                                     <div class="col-sm-4 col-xs-12">
                                         <div class="single_about">
                                             <div class="single_about_img">
@@ -137,7 +152,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div>-->
                             </div>
 
                         </div>
@@ -145,7 +160,7 @@
                 </div>
             </section>
 
-
+            <!--
             <section id="counter" class="counter">
                 <div class="container">
                     <div class="row">  
@@ -197,10 +212,10 @@
                     </div>
                 </div>
             </section>
+            -->
 
 
-
-            <section id="service" class="service">
+            <!--<section id="service" class="service">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-10 col-sm-offset-1">
@@ -290,7 +305,7 @@
                 </div>
             </section>
 
-
+            -->
 
 <!--
             <section id="device" class="device">
@@ -562,7 +577,7 @@
                 </div>
             </section>
             -->
-
+    <!--        
             <section id="portfolio" class="portfolio">
                 <div class="container-fluid">
                     <div class="row">
@@ -641,10 +656,11 @@
                     </div>
                 </div>
             </section>
-
-
+    -->
+<!--
             <section id="testimonial" class="testimonial">
                 <div class="container">
+
                     <div class="row">
                         <div class="main_testimonial sections">
                             <div class="col-sm-12" data-wow-delay="0.2s">
@@ -695,7 +711,7 @@
                     </div>
                 </div>
             </section>
-
+    -->
 
 <!--
             <section id="client" class="client">
@@ -778,6 +794,7 @@
             </section>
 
 -->
+<!--
             <section id="blog" class="blog">
                 <div class="container">
                     <div class="row">
@@ -865,7 +882,7 @@
                 </div>
             </section>
 
-
+-->
 <!--
 
             <section id="maps" class="maps">

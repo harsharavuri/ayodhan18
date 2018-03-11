@@ -33,7 +33,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #fefefe;
+    background-color: black;
     z-index: 99999;
     height: 100%;
     width: 100%;
@@ -41,12 +41,12 @@ body {
 }
 
 .loaded {
-    width: 60px;
-    height: 60px;
+    width: 100px;
+    height: 100px;
     position: absolute;
-    left: 50%;
+    left: 48%;
     top: 50%;
-    background-image: url(../images/loading.gif);
+    background-image: url(../images/logo.png);
     background-repeat: no-repeat;
     background-position: center;
     -moz-background-size: cover;
@@ -438,7 +438,6 @@ Button
     font-size: 20px;
     border-radius: 0px;
     margin-top: 20px;
-    background-color: transparent;
     transition: .5s;
     border: 1px solid #fff;
 
@@ -598,6 +597,15 @@ input::-ms-input-placeholder {
 
 }
 
+
+#sponsors h4{
+    line-height: 4rem;
+    font-size: 3rem;
+    font-weight: 300;
+    padding-bottom: 18%;
+}
+
+
 #sponsors{
     z-index: -1;
     display: block;
@@ -619,17 +627,33 @@ input::-ms-input-placeholder {
     display: block;
     margin-top:2%;
     text-align: center;
+
 }
+
 .event{
-    border: 1px solid black;
+    border-radius: 15px;
     margin:8%;
     text-align: left;
+    height: 300px;
+    border: 3px ridge #0073e6;
+}
+
+.event:hover{
+    cursor:pointer;
+}
+
+.eventModal h5{
+    font-weight: 1000;
 }
 
 .gameName{
-    font-size: 150%;
-    color: blue;
-    padding-top:4%;
+    font-size: 350%;
+    margin-top:24%;
+    font-weight: 400;
+    color:white;
+    opacity: 0.7;
+    font-style: italic;
+    font-family: 'Gill Sans', sans-serif;
 }
 
 .gameImage{
@@ -728,6 +752,8 @@ input::-ms-input-placeholder {
     opacity: 1; 
 }
 /*font-family class*/
+
+
 .monseratregular{
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
@@ -747,6 +773,10 @@ input::-ms-input-placeholder {
 /*heading title all area*/
 .head_title{
     margin-bottom:90px;
+    background-color: #b6c4db;
+    padding:5%;
+    border-radius: 3px;
+    opacity: 0.8;
 }
 .head_title h2{
     color:#333333;
@@ -817,7 +847,12 @@ input::-ms-input-placeholder {
 }
 
 /*about section css*/
-.about{}
+.about{
+    background-image: url('../images/aboutus.jpg');
+    font-weight: 600;
+    font-size: 3rem;
+    color:black;
+}
 .about .main_about_area{}
 .about .main_about_content{}
 .about .main_about_content .single_about{
@@ -1174,6 +1209,45 @@ input::-ms-input-placeholder {
     font-size: 1.125rem;
 }
 
+
+#mainTitle{
+    padding-top: 250px;
+    opacity: 0.8;
+}
+
+#festTitle{
+    color: #fff;
+    padding-bottom: 25px;
+    font-size:7.375rem;
+    line-height: 7rem;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    max-width: 80%;
+    margin:0 auto;
+}
+
+.registerTitleDiv{
+    position:relative;
+    left:21%;
+    background-color: #fff;
+    color:black;
+    border-radius: 3px;
+    padding:1%;
+}
+
+
+#registerTitle{
+    margin-top: 1%;
+    color: black;
+    padding-bottom: 25px;
+    font-size:1.5rem;
+    font-weight: 500;
+
+}
+
+
+
 .main_testimonial .item .single_test_item_img{
     width:20%;
     float:left;
@@ -1466,6 +1540,9 @@ input::-ms-input-placeholder {
 
 }
 
+#video video{
+
+}
 
 #video-bg {
     overflow: hidden;
@@ -1489,7 +1566,9 @@ input::-ms-input-placeholder {
     width: auto;
     height: auto;
 }
-
+.videoBG_wrapper {
+    z-index:0 !important;
+}
 
 
 
