@@ -29,7 +29,7 @@
                                         <hr />
                                         <div class="flowus">
                                             <a href="" class="robotolight"> Follow Us : </a>
-                                            <a href="www.facebook.com/ayodhan18"><i class="fa fa-facebook"></i></a>
+                                            <a href="https://www.facebook.com/ayodhan18"><i class="fa fa-facebook"></i></a>
                                             <!--<a href=""><i class="fa fa-twitter"></i></a>
                                             <a href=""><i class="fa fa-google-plus"></i></a>
                                             <a href=""><i class="fa fa-instagram"></i></a>
