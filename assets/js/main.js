@@ -7,8 +7,8 @@
 jQuery(document).ready(function ($) {
 
     $(window).load(function () {
-        $(".loaded").delay(2000).fadeOut("slow");
-        $(".preloader").delay(2100).fadeOut("slow");
+        $(".loaded").delay(2500).fadeOut("slow");
+        $(".preloader").delay(2600).fadeOut("slow");
     });
     /*---------------------------------------------*
      * Mobile menu
