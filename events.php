@@ -137,7 +137,7 @@
             </div>
 
 
-            <div sty*le="background-image:url('assets/images/aboutus.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#tabletennisModal">
+            <div style="background-image:url('assets/images/aboutus.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#tabletennisModal">
                     <div class="row text-center gameName">
                           Table Tennis
                     </div>
@@ -188,7 +188,7 @@ If there's a game that's the talk of the institute on a daily basis, it's Basket
 </div>
 
 
-<div class="modal fade" id="volleyballModal" tabindex="-1" role="dialog" aria-labelledby="basketballLabel" aria-hidden="true">
+<div class="modal fade eventModal" id="volleyballModal" tabindex="-1" role="dialog" aria-labelledby="basketballLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -201,15 +201,14 @@ If there's a game that's the talk of the institute on a daily basis, it's Basket
         ...
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <button type="button" class="btn btn-success" data-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
 </div>
 
 
-<div class="modal fade" id="basketballModal" tabindex="-1" role="dialog" aria-labelledby="volleyballLabel" aria-hidden="true">
+<div class="modal fade eventModal" id="basketballModal" tabindex="-1" role="dialog" aria-labelledby="volleyballLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -222,15 +221,14 @@ If there's a game that's the talk of the institute on a daily basis, it's Basket
         ...
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <button type="button" class="btn btn-success" data-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
 </div>
 
 
-<div class="modal fade" id="footballModal" tabindex="-1" role="dialog" aria-labelledby="basketballLabel" aria-hidden="true">
+<div class="modal fade eventModal" id="footballModal" tabindex="-1" role="dialog" aria-labelledby="basketballLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -243,15 +241,14 @@ If there's a game that's the talk of the institute on a daily basis, it's Basket
         Football is perhaps the most thrilling, revered and demanding game in the contemporary world. Even in the institute a football game in the ground under flood lights by players no less professional with the crowd at their vociferous best is no less a wonderful sight than the coveted clashes in the international leagues. Always emerging as one of the top teams in the Inter NIT competitions, the football team is emerging as a force to reckon.
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <button type="button" class="btn btn-success" data-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
 </div>
 
 
-<div class="modal fade" id="chessModal" tabindex="-1" role="dialog" aria-labelledby="basketballLabel" aria-hidden="true">
+<div class="modal fade eventModal" id="chessModal" tabindex="-1" role="dialog" aria-labelledby="basketballLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -264,15 +261,14 @@ If there's a game that's the talk of the institute on a daily basis, it's Basket
         ...
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <button type="button" class="btn btn-success" data-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
 </div>
 
 
-<div class="modal fade eventModal" id="athleticsModal" tabindex="-1" role="dialog" aria-labelledby="basketballLabel" aria-hidden="true">
+<div class="modal fade eventModal eventModal" id="athleticsModal" tabindex="-1" role="dialog" aria-labelledby="basketballLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -285,15 +281,14 @@ If there's a game that's the talk of the institute on a daily basis, it's Basket
         
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <button type="button" class="btn btn-success" data-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
 </div>
 
 
-<div class="modal fade" id="kabaddiModal" tabindex="-1" role="dialog" aria-labelledby="basketballLabel" aria-hidden="true">
+<div class="modal fade eventModal" id="kabaddiModal" tabindex="-1" role="dialog" aria-labelledby="basketballLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -306,15 +301,14 @@ If there's a game that's the talk of the institute on a daily basis, it's Basket
         ...
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <button type="button" class="btn btn-success" data-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
 </div>
 
 
-<div class="modal fade" id="lawntennisModal" tabindex="-1" role="dialog" aria-labelledby="basketballLabel" aria-hidden="true">
+<div class="modal fade eventModal" id="lawntennisModal" tabindex="-1" role="dialog" aria-labelledby="basketballLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -327,15 +321,15 @@ If there's a game that's the talk of the institute on a daily basis, it's Basket
         Certainly the most emerging game in the institute, tennis in the institute is building a fan club of it's own. A game lauded for it's physical, mental and emotional gains, tennis gathers all the required attention and support from the institute. At present there are three synthetic and a mud court in the campus and all are under flood lights. The institute team is also constantly bagging the top slots in the Inter NIT Competitions.
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <button type="button" class="btn btn-success" data-dismiss="modal">Close</button>
+
       </div>
     </div>
   </div>
 </div>
 
 
-<div class="modal fade" id="tabletennisModal" tabindex="-1" role="dialog" aria-labelledby="basketballLabel" aria-hidden="true">
+<div class="modal fade eventModal" id="tabletennisModal" tabindex="-1" role="dialog" aria-labelledby="basketballLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -348,14 +342,13 @@ If there's a game that's the talk of the institute on a daily basis, it's Basket
         ...
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <button type="button" class="btn btn-success" data-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
 </div>
 
-<div class="modal fade" id="badmintonModal" tabindex="-1" role="dialog" aria-labelledby="basketballLabel" aria-hidden="true">
+<div class="modal fade eventModal" id="badmintonModal" tabindex="-1" role="dialog" aria-labelledby="basketballLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -368,8 +361,7 @@ If there's a game that's the talk of the institute on a daily basis, it's Basket
         ...
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <button type="button" class="btn btn-success" data-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
