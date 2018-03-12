@@ -12,7 +12,7 @@
                                         <div class="col-md-4 col-lg-4 col-sm-10">
                                             <h4>Sairam Naik</h4>
                                             <p style="font-weight:500">Ph : 9966557433</p>
-                                            <p style="font-weight:500">Email : gsnaik@gmail.com</p>
+                                            <p style="font-weight:500">Email : gsnaik28@gmail.com</p>
                                         </div>
                                         <div class="col-md-4 col-lg-4 col-sm-10">
                                             <h4>Harsha Kanuri</h4>
