@@ -111,11 +111,11 @@
                     </div>
             </div>    
 
-            <div style="background-image:url('assets/images/athletics.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#athleticsModal">
+            <!--<div style="background-image:url('assets/images/athletics.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#athleticsModal">
                     <div class="row text-center gameName">
                           Athletics
                     </div>
-            </div>
+            </div>-->
 
             <div style="background-image:url('assets/images/kabaddi.jpg')" class="event col-lg-4 col-md-4 col-sm-10 col-xs-10"  data-toggle="modal" data-target="#kabaddiModal">
                     <div class="row text-center gameName">
@@ -268,7 +268,7 @@ If there's a game that's the talk of the institute on a daily basis, it's Basket
 </div>
 
 
-<div class="modal fade eventModal eventModal" id="athleticsModal" tabindex="-1" role="dialog" aria-labelledby="basketballLabel" aria-hidden="true">
+<!--<div class="modal fade eventModal eventModal" id="athleticsModal" tabindex="-1" role="dialog" aria-labelledby="basketballLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -286,7 +286,7 @@ If there's a game that's the talk of the institute on a daily basis, it's Basket
       </div>
     </div>
   </div>
-</div>
+</div>-->
 
 
 <div class="modal fade eventModal" id="kabaddiModal" tabindex="-1" role="dialog" aria-labelledby="basketballLabel" aria-hidden="true">
